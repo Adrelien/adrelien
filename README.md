@@ -39,8 +39,8 @@ Telemetry platform for DevOps, manufacturing & IoT.
 
 ## 📊 GitHub Stats
 
-![Adrelien GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Adrelien GitHub stats](https://github-readme-stats.vercel.app/api?username=adrelien&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrelien&layout=compact&theme=tokyonight)
 
 ---
 
