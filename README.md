@@ -1,55 +1,85 @@
-# 🚀 Adrelien Labs
 
-Building telemetry platforms, cloud-native systems, and prod-grade infrastructure.
+<div align="center">
 
-Founder of:
-- **Adrelien** — engineering & software blog 
-- **HarborScale** — telemetry, DevOps & manufacturing observability  
-- **FlareSat** — cross platform real-Time group mapping 
+# Adrelien // Labs
+#### Senior Software Engineer · Platform & IoT Engineering · Istanbul, TR
 
----
+![](https://img.shields.io/badge/Python-FastAPI-111?style=flat-square)
+![](https://img.shields.io/badge/React-Native-111?style=flat-square)
+![](https://img.shields.io/badge/K3s-ArgoCD-111?style=flat-square)
+![](https://img.shields.io/badge/PostgreSQL-TimescaleDB-111?style=flat-square)
+![](https://img.shields.io/badge/LoRa-Meshtastic-111?style=flat-square)
 
-## 🧠 Focus Areas
-
-- 📡 Real-time telemetry & time-series systems  
-- ☁️ Cloud-native architecture (K8s, FastAPI, PostgreSQL, Redis, MQTT)  
-- 🛠️ DevOps automation & scalable backend systems  
-- 🤖 AI-driven analytics & predictive maintenance  
-- 🛰️ IoT, LoRa, Meshtastic & edge computing  
+</div>
 
 ---
 
-## 🧩 Flagship Open Source
-
-### 🔹 HarborScale
-Telemetry platform for DevOps, manufacturing & IoT.  
-👉 https://github.com/HarborScale/telemetry-harbor-oss
+Full-stack engineer with 6+ years building production systems — IoT telemetry pipelines, EV diagnostics platforms, cloud-native infrastructure, and consumer mobile apps. Comfortable owning the entire stack: MQTT ingestion → FastAPI services → TimescaleDB → React dashboards → K3s. Currently building and shipping two live products independently with real users. I write about what I build at [adrelien.com](https://adrelien.com) — hardware teardowns, system design, and maker experiments.
 
 ---
 
-## ⚙️ Tech Stack
+## Products
 
-**Backend:** Python, FastAPI, PostgreSQL, Redis, MQTT, Convex
-**Frontend:** React, TypeScript  
-**Infra:** Docker, Kubernetes (K3s), ArgoCD, MinIO  
-**Cloud:** HETZNER  
-**Hardware:** ESP32, NRF52, LoRa, Meshtastic  
+**[Flaresat](https://flaresat.com)** — `live · 500+ users`
 
----
+Cross-platform live group mapping with Meshtastic off-grid integration. Real-time pin drops, route drawing, zone marking, and group chat — works on cell signal or LoRa mesh with no server required off-grid. iOS, Android, and web.
 
-## 📊 GitHub Stats
-
-![Adrelien GitHub stats](https://github-readme-stats.vercel.app/api?username=adrelien&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrelien&layout=compact&theme=tokyonight)
+`React Native` `Convex` `WebSockets` `LoRa` `Meshtastic` `Maps API`
 
 ---
 
-## 🌍 Links
+**[HarborScale](https://harborscale.com)** — `live · 300+ users`
 
-- 🌐 https://adrelien.com  
-- 🌐 https://harborscale.com  
-- 🌐 https://flaresat.com  
+Universal telemetry platform — monitor servers, IoT sensors, and any data source in under 60 seconds. Scalable ingest pipeline with AI-powered anomaly detection, real-time Grafana dashboards, and GitOps-managed infra.
+
+`FastAPI` `TimescaleDB` `Redis` `MQTT` `K3s` `ArgoCD` `Terraform` `Grafana`
 
 ---
 
-> Engineering systems that scale, survive, and ship.
+## Stack
+
+```text
+backend   │ Python · FastAPI · Django · Go · MQTT · WebSocket · REST · RabbitMQ
+frontend  │ React · React Native · TypeScript · TailwindCSS · shadcn/ui
+data      │ PostgreSQL · TimescaleDB · Redis · InfluxDB · DuckDB · Convex
+infra     │ Docker · K3s · ArgoCD · Terraform · Grafana · AWS · Hetzner · Linux · Proxmox
+hardware  │ LoRa · Meshtastic · ESP32 · NRF52 · FPV Drones · 3D Printing
+```
+
+---
+
+## Stats
+
+`6+ yrs shipping` &nbsp; `30K+ Adrelien views` &nbsp; `500+ Flaresat users` &nbsp; `300+ Harbor Scale users` &nbsp; `2 Live products`
+
+---
+
+## Writing — [adrelien.com](https://adrelien.com)
+
+Hardware guides, node builds, and range tests across **Meshtastic & LoRa** · ESP32 projects and sensor integrations under **IoT** · Build logs and stack configs for **FPV Drones** · Hands-on **reviews** with Seeed Studio, RAK Wireless, and Elecrow.
+
+---
+
+## Recognition
+
+| | |
+|---|---|
+| **LEAP 2026 — Riyadh** | HarborScale & Flaresat accepted · Aug 2026 |
+| **Antler Dubai** | Accepted into cohort · 2026 |
+| **FEV Turkey** | Mahindra · TOGG · FEV Germany · Turkish Airlines |
+
+## Partners & Collaborators
+
+![Seeed Studio](https://img.shields.io/badge/Seeed_Studio-partner-111?style=flat-square)
+![RAK Wireless](https://img.shields.io/badge/RAK_Wireless-partner-111?style=flat-square)
+![Elecrow](https://img.shields.io/badge/Elecrow-partner-111?style=flat-square)
+![OpenELAB](https://img.shields.io/badge/OpenELAB-partner-111?style=flat-square)
+![Meshnology](https://img.shields.io/badge/Meshnology-partner-111?style=flat-square)
+
+Hardware and IoT brands I've worked with for reviews, sponsored content, and product collaborations. All reviews are hands-on and unsponsored opinions — sending a product doesn't buy a positive write-up.
+
+---
+
+[adrelien.com](https://adrelien.com) · [flaresat.com](https://flaresat.com) · [harborscale.com](https://harborscale.com) · adr@adrelien.com
+
+> *I build things that run in production and write about what breaks.*
