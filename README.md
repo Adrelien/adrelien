@@ -20,7 +20,7 @@ Full-stack engineer with 6+ years building production systems — IoT telemetry 
 
 ## Products
 
-**[Flaresat](https://flaresat.com)** — `live · 500+ users`
+**[Flaresat](https://flaresat.com)** — `live · 1000+ users`
 
 Cross-platform live group mapping with Meshtastic off-grid integration. Real-time pin drops, route drawing, zone marking, and group chat — works on cell signal or LoRa mesh with no server required off-grid. iOS, Android, and web.
 
@@ -28,7 +28,7 @@ Cross-platform live group mapping with Meshtastic off-grid integration. Real-tim
 
 ---
 
-**[HarborScale](https://harborscale.com)** — `live · 300+ users`
+**[HarborScale](https://harborscale.com)** — `live · 500+ users`
 
 Universal telemetry platform — monitor servers, IoT sensors, and any data source in under 60 seconds. Scalable ingest pipeline with AI-powered anomaly detection, real-time Grafana dashboards, and GitOps-managed infra.
 
@@ -50,7 +50,7 @@ hardware  │ LoRa · Meshtastic · ESP32 · NRF52 · FPV Drones · 3D Printing
 
 ## Stats
 
-`6+ yrs shipping` &nbsp; `30K+ Adrelien views` &nbsp; `500+ Flaresat users` &nbsp; `300+ Harbor Scale users` &nbsp; `2 Live products`
+`6+ yrs shipping` &nbsp; `30K+ Adrelien views` &nbsp; `1000+ Flaresat users` &nbsp; `500+ Harbor Scale users` &nbsp; `2 Live products`
 
 ---
 
