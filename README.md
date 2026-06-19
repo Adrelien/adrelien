@@ -66,6 +66,7 @@ Hardware guides, node builds, and range tests across **Meshtastic & LoRa** · ES
 |---|---|
 | **LEAP 2026 — Riyadh** | HarborScale & Flaresat accepted · Aug 2026 |
 | **Antler Dubai** | Accepted into cohort · 2026 |
+| **Virtuagym** | Fitness Software |
 | **FEV Turkey** | Mahindra · TOGG · FEV Germany · Turkish Airlines |
 
 ## Partners & Collaborators
