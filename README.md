@@ -62,6 +62,7 @@ Hardware guides, node builds, and range tests across **Meshtastic & LoRa** · ES
 ## Recognition
 
 | | |
+|---|---|
 | **LEAP 2026 — Riyadh** | Carroted Data & Carroted Maps (as HarborScale & Flaresat) accepted · Aug 2026 |
 | **Antler Dubai** | Accepted into cohort · 2026 |
 | **Virtuagym** | Fitness Software |
