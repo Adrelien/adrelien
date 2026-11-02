@@ -21,7 +21,7 @@ Full-stack engineer with 6+ years building production systems — IoT telemetry 
 
 **[Carroted Maps](https://carroted.com/maps)** — `live · 1000+ users` · *formerly Flaresat*
 
-Cross-platform live group mapping with Meshtastic off-grid integration. Real-time pin drops, route drawing, zone marking, and group chat — works on cell signal or LoRa mesh with no server required off-grid. iOS, Android, and web.
+Cross-platform live group mapping with Meshtastic off-grid integration. Real-time pin drops, route drawing, zone marking, and group chat, works on cell signal or LoRa mesh with no server required off-grid. iOS, Android, and web.
 
 `React Native` `Convex` `WebSockets` `LoRa` `Meshtastic` `Maps API`
 
@@ -29,7 +29,7 @@ Cross-platform live group mapping with Meshtastic off-grid integration. Real-tim
 
 **[Carroted Data](https://carroted.com/data)** — `live · 500+ users` · *formerly HarborScale*
 
-Universal telemetry platform — monitor servers, IoT sensors, and any data source in under 60 seconds. Scalable ingest pipeline with AI-powered anomaly detection, real-time Grafana dashboards, and GitOps-managed infra.
+Universal telemetry platform, monitor servers, IoT sensors, and any data source in under 60 seconds. Scalable ingest pipeline with AI-powered anomaly detection, real-time Grafana dashboards, and GitOps-managed infra.
 
 `FastAPI` `TimescaleDB` `Redis` `MQTT` `K3s` `ArgoCD` `Terraform` `Grafana`
 
