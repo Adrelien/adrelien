@@ -13,7 +13,7 @@
 
 ---
 
-Full-stack engineer with 6+ years building production systems — IoT telemetry pipelines, EV diagnostics platforms, cloud-native infrastructure, and consumer mobile apps. Comfortable owning the entire stack: MQTT ingestion → FastAPI services → TimescaleDB → React dashboards → K3s. Currently building and shipping the [Carroted](https://carroted.com) products independently with real users. I write about what I build at [Carroted Media](https://carroted.com/media) — hardware teardowns, system design, and maker experiments.
+Full-stack engineer with 6+ years building production systems — IoT telemetry pipelines, EV diagnostics platforms, cloud-native infrastructure, and consumer mobile apps. Comfortable owning the entire stack: MQTT ingestion → FastAPI services → TimescaleDB → React dashboards → K3s. Currently building and shipping the [Carroted](https://carroted.com) products independently with real users. I write about what I build at [Carroted Media](https://carroted.com/media) - hardware teardowns, system design, and maker experiments.
 
 ---
 
