@@ -53,7 +53,7 @@ hardware  │ LoRa · Meshtastic · ESP32 · NRF52 · FPV Drones · 3D Printing
 
 ---
 
-## Writing — [carroted.com/media](https://carroted.com/media)
+## Writing - [carroted.com/media](https://carroted.com/media)
 
 Hardware guides, node builds, and range tests across **Meshtastic & LoRa** · ESP32 projects and sensor integrations under **IoT** · Build logs and stack configs for **FPV Drones** · Hands-on **reviews** with Seeed Studio, RAK Wireless, and Elecrow.
 
